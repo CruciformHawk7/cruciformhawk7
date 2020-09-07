@@ -1,12 +1,22 @@
+```bash
+~$ curl https://github.com/user:CruciformHawk7
 ```
-~$ whoami
-
-Hello, I am Nikhil Hari.
-
-- I’m currently a MS Computer Science student.
-- I’m currently learning Kotlin and Blazor.
-- Ask me about my hobbies!
-- Email: nikhil_hari@live.com
-- Pronouns: he/him
-- HMU with them microservices!
+```javascript
+{
+   "name": "Nikhil Hari",
+   "greeting":"Hello, I am Nikhil!",
+   "designation": "MS Computer Science Student",
+   "favouriteLangs": [ 
+      "C#", 
+      "Kotlin", 
+      "JavaScript"
+   ],
+   "technologies": [
+      "ASP.NET Core",
+      "Blazor"
+   ],
+   "email": "nikhil_hari@live.com",
+   "pronouns": "he/him",
+   "interests": [ "Microservices", "Containers" ]
+}
 ```
