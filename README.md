@@ -8,5 +8,5 @@ Hello, I am Nikhil Hari.
 - Ask me about my hobbies!
 - Email: nikhil_hari@live.com
 - Pronouns: he/him
-- Fun fact: I'm a big optimisation geek!
+- HMU with them microservices!
 ```
