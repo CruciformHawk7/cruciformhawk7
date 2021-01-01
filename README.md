@@ -20,3 +20,4 @@
    "interests": [ "Microservices", "Containers" ]
 }
 ```
+## Website Status: [![WebsiteStatus](https://github.com/cruciformhawk7/nikhilhariwebsite/workflows/GitHub%20Pages/badge.svg)](https://nikhilhari.in)
